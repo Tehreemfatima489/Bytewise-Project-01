@@ -5,16 +5,18 @@ body{
 
 }
 /* #######################  FONTS STYLING   ##################### */
-.young{
+.young {
     font-family: "Young Serif", serif;
-
-  }
-  .outfit{
+    font-display: swap;
+}
+.outfit {
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-  }
+    font-display: swap;
+}
+
 
 /* #######################  CONTAINER STYLING   ##################### */
 
