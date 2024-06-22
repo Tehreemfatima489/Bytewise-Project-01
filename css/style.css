@@ -48,7 +48,7 @@ body{
     font-weight: bold;
     margin-bottom: 0px;
 }
-.intro p{
+.intro .recipe-intro{
     color: hsl(24, 5%, 18%);
 
     font-size: 1rem;
